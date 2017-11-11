@@ -15,13 +15,16 @@ Documentation for running the club. Duties and responsibilities.
 
 ## Monday of the week OR 4 days before the event:
 
-[Marketing] 1. Post Flyers in Facebook groups (HackersUTD, ACM, Women Who Compute, UTD Class of 2021,2020,2019)
+[Marketing] 1. Post Flyers in Facebook groups (HackersUTD, ACM, Women Who Compute, UTD Class of 2021,2020,2019).
+
 [Operations] 2. Put up flyers in ECS, JSOM, ATEC.
 
 ## Day of event:
 
 [Marketing] 1. Repost Facebook Flyer/event in major Facebook groups.
+
 [Operations] 2. Order Pizza. For Cicis: 2hrs before the event ends. Use UTD discount, $6 for a large Pizza.
+
 [Operations] 3. Man Pizza station. Establish rules=> 1 per person.
 
 
